@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\pay roll form\\pay roll form\\pages\\searchdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\searchdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\updatedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\updatedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\updatedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\updatedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\searchdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\searchdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\employeelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\employeelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\userdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\userdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\deletedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\deletedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\deletedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\deletedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\employeelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\employeelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\pay roll form\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069A5E3-0072-42FC-B034-EDBE2682750C}|Pay Roll Form\\Pay Roll Form.csproj|solutionrelative:pay roll form\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Register.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\Register.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAmJmZmZkhwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:37:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Default.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\Default.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Default.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:17:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Register.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\Register.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Register.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:29:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UpdateDetails.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\UpdateDetails.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UpdateDetails.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\UpdateDetails.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:29:29.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UserDetails.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\UserDetails.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UserDetails.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\UserDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:27:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\SearchDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\SearchDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\SearchDetails.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\SearchDetails.aspx.cs",
+              "ViewState": "AQIAAA8AAADgMTMzM9MwwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:25:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\SearchDetails.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\SearchDetails.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\SearchDetails.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\SearchDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:24:36.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeList.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\EmployeeList.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\EmployeeList.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\EmployeeList.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\EmployeeList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:17:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UpdateDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\UpdateDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UpdateDetails.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\UpdateDetails.aspx.cs",
+              "ViewState": "AQIAAEYAAAAAmZmZmZkuwFgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:32:41.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Login.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\Login.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Login.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:14:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UserDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\UserDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\UserDetails.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\UserDetails.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAMjMzMzMLwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:28:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Site.Master",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Site.Master",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Site.Master",
+              "RelativeToolTip": "Pay Roll Form\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:05:05.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\DeleteDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\DeleteDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\DeleteDetails.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\DeleteDetails.aspx.cs",
+              "ViewState": "AQIAABsAAADgmZmZmZkhwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:22:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\DeleteDetails.aspx",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\DeleteDetails.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\DeleteDetails.aspx",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\DeleteDetails.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T13:22:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\EmployeeList.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\EmployeeList.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\EmployeeList.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\EmployeeList.aspx.cs",
+              "ViewState": "AQIAABcAAADgMjMzMzM/wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:19:20.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Pay Roll Form\\Pages\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\Pay Roll Form\\Pay Roll Form\\Pages\\Login.aspx.cs",
+              "RelativeToolTip": "Pay Roll Form\\Pages\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAABAAAAAAIAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:16:04.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
